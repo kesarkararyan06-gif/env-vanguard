@@ -24,5 +24,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 38 unit tests with 100% statement/function/line coverage.
 - GitHub Actions CI for Node 18, 20, and 22.
 
-[unreleased]: https://github.com/GITHUB_USERNAME/env-vanguard/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/GITHUB_USERNAME/env-vanguard/releases/tag/v0.1.0
+[unreleased]: https://github.com/kesarkararyan06-gif/env-vanguard/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/kesarkararyan06-gif/env-vanguard/releases/tag/v0.1.0

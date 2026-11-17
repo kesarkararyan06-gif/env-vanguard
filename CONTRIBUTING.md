@@ -5,7 +5,7 @@ Thank you for considering a contribution! This project follows standard open-sou
 ## Getting Started
 
 ```bash
-git clone https://github.com/GITHUB_USERNAME/env-vanguard.git
+git clone https://github.com/kesarkararyan06-gif/env-vanguard.git
 cd env-vanguard
 npm install
 npm test       # run tests with coverage
