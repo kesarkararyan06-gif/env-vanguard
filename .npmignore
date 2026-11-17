@@ -1,0 +1,10 @@
+node_modules/
+test/
+examples/
+coverage/
+*.tgz
+.github/
+eslint.config.mjs
+jest.config.js
+CONTRIBUTING.md
+.gitignore
